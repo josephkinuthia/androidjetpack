@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mitcomposejetpack</string>
+    <string name="title_activity_layoutactivity">layoutactivity</string>
+    <string name="title_activity_imagesactivity">imagesactivity</string>
+    <string name="title_activity_advertise">advertise</string>
+    <string name="title_activity_textactivity">textactivity</string>
+    <string name="title_activity_listactivity">listactivity</string>
+    <string name="title_activity_cardactivity">cardactivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_animationactivity">animationactivity</string>
+</resources>
