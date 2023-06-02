@@ -59,7 +59,7 @@ fun items(){
 }
 
 
-@Preview(showBackground = true)
+@Preview(showBackground = true, name = "josephkinuthia")
 @Composable
 fun itemsPreview(){
     items()
